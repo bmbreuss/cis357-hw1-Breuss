@@ -3,6 +3,7 @@
 // Due date: 07/05/2022
 // Name: Brendan Breuss
 // Instructor: Il-Hyung Cho 
+// Github: https://github.com/bmbreuss/cis357-hw1-Breuss
 // Program description: A simple CashRegister program that reads items from a file to create a mock POS system
 //						we then take user input allowing them to make item selections, purchase items and 
 //						receive change once the sale has been completed. Also tally's total sales for the day
